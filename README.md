@@ -18,7 +18,11 @@ A simple control board  for a raspberry pi400,<br>
       this uses the second rotary encoder to be used as a scroll wheel, the button isnt yet programmed.<br>
       <p>
         <b> seq.py</b><br>
-        just a little script to test all leds are working.
+        just a little script to test all leds are working.<br>
+       <p>
+        <b> load.sh</b><br>
+        an executable bash file that runs volume.py, buttons.py and rotary.py together.<br>
+        I might clean up the code into one file at some stage.
       
                                                                                                            
   
